@@ -1,0 +1,52 @@
+* {
+   background-color: black; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+#DLnow {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+}
+
+video, img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+
+}
+
+#ex, #exc {
+    font-weight: normal;
+    font-size: 21px;
+    color: gray;
+    
+}
+
+#ex{
+    text-align: center;
+}
+#exc{
+    text-align: right;
+}
+
+#phone {
+    padding-top: 20px;
+}
